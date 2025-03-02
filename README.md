@@ -1,6 +1,6 @@
 # Google-Sheets-Process-Improvement
 
-This was a project focused on process improvement using Google Sheets, during my employment at hackajob
+This was a project focused on process improvement across 3 Google Sheets, during my employment at hackajob
 
 * Senior Leads saved 45+ minutes a week on admin
 * All KPI scores improved considerably (especially the main kpis increased by 15+%) 
