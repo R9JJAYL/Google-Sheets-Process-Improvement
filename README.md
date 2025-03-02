@@ -11,4 +11,13 @@ This was a project focused on process improvement across 3 Google Sheets for KPI
 * Supported people, analyzing their performance when it came round to annual reviews 
 * Over 2 years later, these sheets and processes are still in place, even 1 year after me leaving (I left in 2023, sheets were made in 2021)
 
+## KPI Trackers
+
+Below are the links to the KPI tracking sheets:
+
+- [Daily KPI Tracker](https://docs.google.com/spreadsheets/d/12UYoobccjtrzmX9VEOjLgQRXTRxT5DqF53Tcoq6xgPc/edit?gid=586722786#gid=586722786)
+- [Weekly KPI Tracker](https://docs.google.com/spreadsheets/d/1RHCckzmudOT8LLC4-JD13LPP3P84e2TD1u69RtysiUY/edit?gid=703124017#gid=703124017)
+- [Individual Performance Tracker](https://docs.google.com/spreadsheets/d/1rfP_tJNh8LbF-j1aH9_0qBCXw05aR7iilbucGfGgMgM/edit?gid=1413052365#gid=1413052365)
+
+
 The main skills used in this project were, process automation, stakeholder management, performance analysis, UI design practices, conditional formatting, mathematical calculations, general Sheets functions and ‘safety precautions’ such as sheet protection and ‘if errors’.
