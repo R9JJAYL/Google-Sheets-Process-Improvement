@@ -11,7 +11,7 @@ This was a project focused on process improvement across 3 Google Sheets for KPI
 * Supported people, analyzing their performance when it came round to annual reviews 
 * Over 2 years later, these sheets and processes are still in place, even 1 year after me leaving (I left in 2023, sheets were made in 2021)
 
-You can find the explanation of each sheet and the benefits of the work linked above
+You can find the explanation of each sheet and the changes I made in this repository
 
 Below are the links to the KPI tracking sheets:
 
