@@ -14,7 +14,7 @@ This was a project focused on process improvement across 3 Google Sheets for KPI
 You can find the explanation of each sheet and the changes I made in this repository and the links to the sheets are below:
 
 - [Sheet 1 - Daily KPI Tracker](https://docs.google.com/spreadsheets/d/12UYoobccjtrzmX9VEOjLgQRXTRxT5DqF53Tcoq6xgPc/edit?gid=586722786#gid=586722786)
-- [Sheet 1 - Explained]([https://github.com/R9JJAYL/Google-Sheets-Process-Improvement/blob/main/Sheet%201%20-%20Daily%20Team%20KPIs.pdf](https://github.com/R9JJAYL/Google-Sheets-Process-Improvement/blob/main/Sheet%201%20-%20Explained.pdf))
+- [Sheet 1 - Explained](https://github.com/R9JJAYL/Google-Sheets-Process-Improvement/blob/main/Sheet%201%20-%20Explained.pdf)
   
 - [Sheet 2 - Weekly KPI Tracker](https://docs.google.com/spreadsheets/d/1RHCckzmudOT8LLC4-JD13LPP3P84e2TD1u69RtysiUY/edit?gid=703124017#gid=703124017)
 - [Sheet 2 - Explained](https://github.com/R9JJAYL/Google-Sheets-Process-Improvement/blob/main/Sheet%202%20-%20Explained.pdf)
